@@ -33,6 +33,6 @@ footer{
   height: auto;
 }
 .fa-brands {
-  display: flex;
   margin: 0 40px;
+  text-decoration: none;
 }
